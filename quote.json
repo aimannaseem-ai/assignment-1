@@ -1,8 +1,62 @@
 [
-  { "topic": "inspiration", "text": "The best way to get started is to quit talking and begin doing." },
-  { "topic": "inspiration", "text": "Don’t let yesterday take up too much of today." },
-  { "topic": "inspiration", "text": "It’s not whether you get knocked down, it’s whether you get up." },
-  { "topic": "motivation", "text": "Your limitation—it’s only your imagination." },
-  { "topic": "motivation", "text": "Push yourself, because no one else is going to do it for you." },
-  { "topic": "motivation", "text": "Success doesn’t just find you. You have to go out and get it." }
+  {
+    "topic": "motivation",
+    "text": "Push yourself, because no one else is going to do it for you."
+  },
+  {
+    "topic": "motivation",
+    "text": "Great things never come from comfort zones."
+  },
+  {
+    "topic": "motivation",
+    "text": "Success doesn’t just find you. You have to go out and get it."
+  },
+  {
+    "topic": "inspiration",
+    "text": "The best way to predict the future is to create it."
+  },
+  {
+    "topic": "inspiration",
+    "text": "Believe you can and you're halfway there."
+  },
+  {
+    "topic": "inspiration",
+    "text": "Do what you can, with what you have, where you are."
+  },
+  {
+    "topic": "success",
+    "text": "Success is not in what you have, but who you are."
+  },
+  {
+    "topic": "success",
+    "text": "Don't watch the clock; do what it does. Keep going."
+  },
+  {
+    "topic": "success",
+    "text": "Success is walking from failure to failure with no loss of enthusiasm."
+  },
+  {
+    "topic": "friendship",
+    "text": "Friendship is born at that moment when one person says to another: 'What! You too?'"
+  },
+  {
+    "topic": "friendship",
+    "text": "A real friend is one who walks in when the rest of the world walks out."
+  },
+  {
+    "topic": "friendship",
+    "text": "True friendship comes when the silence between two people is comfortable."
+  },
+  {
+    "topic": "happiness",
+    "text": "Happiness is not something ready-made. It comes from your own actions."
+  },
+  {
+    "topic": "happiness",
+    "text": "For every minute you are angry you lose sixty seconds of happiness."
+  },
+  {
+    "topic": "happiness",
+    "text": "The purpose of our lives is to be happy."
+  }
 ]
